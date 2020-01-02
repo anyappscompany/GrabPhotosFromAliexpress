@@ -1,0 +1,10 @@
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\bin\Debug\GrabPhotosFromAliexpress.exe.config
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\bin\Debug\GrabPhotosFromAliexpress.exe
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\bin\Debug\GrabPhotosFromAliexpress.pdb
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\obj\Debug\GrabPhotosFromAliexpress.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\obj\Debug\GrabPhotosFromAliexpress.Form1.resources
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\obj\Debug\GrabPhotosFromAliexpress.Properties.Resources.resources
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\obj\Debug\GrabPhotosFromAliexpress.csproj.GenerateResource.Cache
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\obj\Debug\GrabPhotosFromAliexpress.exe
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\obj\Debug\GrabPhotosFromAliexpress.pdb
+F:\Visual Studio\Projects\GrabPhotosFromAliexpress\GrabPhotosFromAliexpress\obj\Debug\GrabPhotosFromAliexpress.Form2.resources
